@@ -1,10 +1,10 @@
-from PIL import Image, ImageTk
 from tkinter import messagebox
 import tempfile
 from tkinter import *
 from tkinter import ttk
 import random
 import os
+from PIL import Image, ImageTk
 
 
 
